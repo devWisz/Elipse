@@ -1,1 +1,1 @@
-"# Elipse" 
+Elipse is a tool built in golang to check the emails weather does it exist or not based on different parameters
